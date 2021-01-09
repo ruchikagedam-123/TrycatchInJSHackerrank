@@ -1,4 +1,4 @@
-# TrycatchInJSHackerrank
+# Day3
 Try catch in javascript.
 Task
 
