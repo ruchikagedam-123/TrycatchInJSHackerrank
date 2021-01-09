@@ -1,3 +1,8 @@
+/*
+Complete the getSecondLargest function in the editor below. It has one parameter: an array, , of  numbers. The function must find and return the second largest number in .
+*/
+
+
 'use strict';
 
 process.stdin.resume();
